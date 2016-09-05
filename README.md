@@ -109,3 +109,11 @@ Free stock photos, icons, fonts, etc.
 * [**uiFaces**](http://uifaces.com/) - Free to use user photos from real users on Twitter that signup to have their avatar used by developers when they need, say, a bunch of profile pictures. It even has an API (whaaaat!?).
 
 ---
+
+## 7 - Playgrounds
+
+* [**CodePen**](http://codepen.io) - Great playground when you're messing with something that requires a DOM. You can customize the IDE to add external libraries, and it supports multiple types of preprocessors for HTML, CSS and JavaScript.
+
+* [**repl.it**](http://repl.it) - Different kinds of playgrounds. I mostly use it for its JavaScript sandbox that has a console.
+
+* [**JS Bin**](http://jsbin.com) - JS Bin is a JS-focused sandbox. It's also great if you want to live-code an example with someone remotely.
