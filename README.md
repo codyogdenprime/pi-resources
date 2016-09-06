@@ -4,7 +4,7 @@ A list of (mostly free) resources organized by [codyogden](http://github.com/cod
 
 ## 0 - Multi-topic Resources
 
-* [**Shay Howe - HTML/CSS**](http://learn.shayhowe.com/html-css/) - This is a no-knowledge-needed primer for learning the ins-and-outs of HTML and CSS. Shay Howe uses easy to understand examples and explains every minute detail of creating solid HTML documents. Still don’t understand the CSS Cascade? This is [Lesson #3](http://learn.shayhowe.com/html-css/getting-to-know-css/) is probably for you.
+* [**Shay Howe - HTML/CSS**](http://learn.shayhowe.com/html-css/) - This is a no-knowledge-needed primer for learning the ins-and-outs of HTML and CSS. Shay Howe uses easy to understand examples and explains every minute detail of creating solid HTML documents. Still don’t understand the CSS Cascade? Then [Lesson #3](http://learn.shayhowe.com/html-css/getting-to-know-css/) is probably for you.
 
 * [**Shay Howe - Advanced HTML/CSS**](http://learn.shayhowe.com/advanced-html-css/) - A continuation of the book from above, these lessons go into greater detail on specific areas of HTML and CSS. I especially appreciate the lesson on [Complex CSS Selectors](http://learn.shayhowe.com/advanced-html-css/complex-selectors/) and [Extending Semantics and Accessibility](http://learn.shayhowe.com/advanced-html-css/semantics-accessibility/).
 
@@ -43,7 +43,7 @@ Not sure where to start your search? These tools will help get you started looki
 
 * [**A Guide to Flexbox**](https://css-tricks.com/snippets/css/a-guide-to-flexbox/) - A simple, straightforward guide to using Flexbox with plenty of examples to get you started.
 
-* [**Flexbox Froggy**](http://flexboxfroggy.com) - A gasified version of how to use Flexbox.
+* [**Flexbox Froggy**](http://flexboxfroggy.com) - A gamified version of how to use Flexbox.
 
 * [**CSS Guidelines**](http://cssguidelin.es/) - Delve deep into the underbelly of CSS and how to scale, organize and maintain any size CSS project. Not for the faint of CSS heart. <3
 
