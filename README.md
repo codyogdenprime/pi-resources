@@ -114,6 +114,8 @@ Online IDEs you can use to test code and replicate problems, or have fun!
 ## 7 - Non-Developer Resources
 Free stock photos, icons, fonts, etc.
 
+* [**CoDrops Collective**](http://tympanus.net/codrops/collective/) - Every week(ish) this site releases a curated collection of articles, free graphic resources (fonts and icons), links to new and upcoming development tools for and by the designing and development community. It also features (sometimes obscure) open source projects from GitHub that do cool things. Definitely a must follow!
+
 * [**iconmonstr**](http://iconmonstr.com/) - Free-to-use Creative Commons licensed vector graphics. Attribution required.
 
 * [**The Noun Project**](https://thenounproject.com/) - Free-to-use Creative Commons licensed vector graphics. Attribution required. Literally... icons for everything.
@@ -125,3 +127,5 @@ Free stock photos, icons, fonts, etc.
 * [**Gratisography**](http://gratisography.com/) - “Free high-resolution pictures you can use on your personal and commercial projects. “ PS: These photos are a little more on the artsy/creative side.
 
 * [**uiFaces**](http://uifaces.com/) - Free to use user photos from real users on Twitter that signup to have their avatar used by developers when they need, say, a bunch of profile pictures. It even has an API (whaaaat!?).
+
+* [**Product Hunt**](https://www.producthunt.com/) - "Product Hunt surfaces the best new products, every day." I use Product Hunt to learn about new and upcoming (and sometimes old but relevant) developer tools, programs and resources. You can customize the experience to see more of things that might be relevant to you.
