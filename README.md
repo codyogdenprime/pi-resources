@@ -47,6 +47,8 @@ Not sure where to start your search? These tools will help get you started looki
 
 * [**CSS Guidelines**](http://cssguidelin.es/) - Delve deep into the underbelly of CSS and how to scale, organize and maintain any size CSS project. Not for the faint of CSS heart. <3
 
+* [**color-hex**](http://www.color-hex.com/) - This is my personal favorite color information tool. They also have community created [color palletes](http://www.color-hex.com/color-palettes/) you can search through.
+
 ### Upcoming CSS Features
 The future of CSS is coming.
 
