@@ -73,6 +73,10 @@ The future of CSS is coming.
 
 * [**You Might Not Need jQuery**](http://youmightnotneedjquery.com/) - Do you really need to load a JavaScript library to do that?
 
+### Node.js & Express
+
+* [**Node-Express-MongoDB Tutorial**](http://zellwk.com/blog/crud-express-mongodb/) - This is a great tutorial that will walk you through creating a simple [CRUD app](https://en.wikipedia.org/wiki/Create,_read,_update_and_delete). **Be advised:** This tutorial requires some basic knowledge of ES6, mostly to redo the code into ES5.
+
 ### jQuery
 
 * [**Shay Howe - Advanced HTML/CSS - Lesson #6**](http://learn.shayhowe.com/advanced-html-css/jquery/#jquery) - This is an amazing primer that takes you from beginner to nitty-gritty details of how, what and why jQuery does jQuery.
@@ -97,6 +101,7 @@ Make your code clean and easy to read by learning how other company’s style th
 ---
 
 ## 6 - Playgrounds
+Online IDEs you can use to test code and replicate problems, or have fun!
 
 * [**CodePen**](http://codepen.io) - Great playground when you're messing with something that requires a DOM. You can customize the IDE to add external libraries, and it supports multiple types of preprocessors for HTML, CSS and JavaScript.
 
