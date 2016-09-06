@@ -78,6 +78,7 @@ The future of CSS is coming.
 * [**Shay Howe - Advanced HTML/CSS - Lesson #6**](http://learn.shayhowe.com/advanced-html-css/jquery/#jquery) - This is an amazing primer that takes you from beginner to nitty-gritty details of how, what and why jQuery does jQuery.
 
 * [**jqFundamentals**](http://jqfundamentals.com/chapter/jquery-basics) - An easy way to walk through the fundamental concepts that create the library that is jQuery and how to use it to your advantage. You can skip the JavaScript basics if you are so inclined.
+* [**jQuery Data Method Tutorial**](http://tutorialzine.com/2010/11/jquery-data-method/) - Learn about `.data()`, how to use it and why it is useful.
 
 
 ### Styleguides
