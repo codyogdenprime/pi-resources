@@ -100,7 +100,7 @@ Make your code clean and easy to read by learning how other company’s style th
 
 ---
 
-## 6 - Playgrounds
+## 6 - Playgrounds & IDEs
 Online IDEs you can use to test code and replicate problems, or have fun!
 
 * [**CodePen**](http://codepen.io) - Great playground when you're messing with something that requires a DOM. You can customize the IDE to add external libraries, and it supports multiple types of preprocessors for HTML, CSS and JavaScript.
@@ -108,6 +108,10 @@ Online IDEs you can use to test code and replicate problems, or have fun!
 * [**repl.it**](http://repl.it) - Different kinds of playgrounds. I mostly use it for its JavaScript sandbox that has a console.
 
 * [**JS Bin**](http://jsbin.com) - JS Bin is a JS-focused sandbox. It's also great if you want to live-code an example with someone remotely.
+
+* [**Atom**](http://atom.io) - Atom is the editor that Prime standarized for the program.
+
+* [**Sublime Text**](https://www.sublimetext.com/) - Sublime Text is the editor I use personally. "Sublime Text may be downloaded and evaluated for free, however a license must be purchased for continued use. There is currently no enforced time limit for the evaluation."
 
 ---
 
@@ -129,3 +133,5 @@ Free stock photos, icons, fonts, etc.
 * [**uiFaces**](http://uifaces.com/) - Free to use user photos from real users on Twitter that signup to have their avatar used by developers when they need, say, a bunch of profile pictures. It even has an API (whaaaat!?).
 
 * [**Product Hunt**](https://www.producthunt.com/) - "Product Hunt surfaces the best new products, every day." I use Product Hunt to learn about new and upcoming (and sometimes old but relevant) developer tools, programs and resources. You can customize the experience to see more of things that might be relevant to you.
+
+* [**Trello**](http://trello.com) - This is an organization tool I use to manage tasks lists.
