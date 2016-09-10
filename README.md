@@ -37,6 +37,8 @@ Not sure where to start your search? These tools will help get you started looki
 
 ## 3 - CSS
 
+* [**Stylestats**](http://www.stylestats.org/) - CSS and page performance stats.
+
 * [**Getting Started with CSS (MDN)**](https://developer.mozilla.org/en-US/docs/Web/Guide/CSS/Getting_started) - This is a great introductory guide.
 
 * [**MDN - CSS**](https://developer.mozilla.org/en-US/docs/Web/CSS) - Mozilla Developer Network documentation on CSS. I use this mostly for figuring out specific properties.
