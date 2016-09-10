@@ -77,6 +77,8 @@ The future of CSS is coming.
 
 * [**Node-Express-MongoDB Tutorial**](http://zellwk.com/blog/crud-express-mongodb/) - This is a great tutorial that will walk you through creating a simple [CRUD app](https://en.wikipedia.org/wiki/Create,_read,_update_and_delete). **Be advised:** This tutorial requires some basic knowledge of ES6, mostly to redo the code into ES5.
 
+* [**HACKING NODEJS AND MONGODB**](http://blog.websecurify.com/2014/08/hacking-nodejs-and-mongodb.html) - 
+
 ### jQuery
 
 * [**Shay Howe - Advanced HTML/CSS - Lesson #6**](http://learn.shayhowe.com/advanced-html-css/jquery/#jquery) - This is an amazing primer that takes you from beginner to nitty-gritty details of how, what and why jQuery does jQuery.
@@ -92,7 +94,17 @@ Make your code clean and easy to read by learning how other company’s style th
 
 ---
 
-## 5 - Git
+## 5 - Database Resources / Tools
+
+### Mongodb
+
+* [**AdminMongo**](https://mrvautin.com/adminmongo/) - A tool that provides light GUI for managing and interacting with your local and remote MongoDB databases.
+
+* [**mLab**](http://mlab.com) - A free remote 500mb MongoDB.
+
+---
+
+## 6 - Git
 
 * [**A Visual Git Reference**](http://marklodato.github.io/visual-git-guide/index-en.html) - A quick read, but useful information on basics of how versioning software like Git makes the software world go ‘round.
 
@@ -100,7 +112,7 @@ Make your code clean and easy to read by learning how other company’s style th
 
 ---
 
-## 6 - Playgrounds & IDEs
+## 7 - Playgrounds & IDEs
 Online IDEs you can use to test code and replicate problems, or have fun!
 
 * [**CodePen**](http://codepen.io) - Great playground when you're messing with something that requires a DOM. You can customize the IDE to add external libraries, and it supports multiple types of preprocessors for HTML, CSS and JavaScript.
@@ -115,7 +127,7 @@ Online IDEs you can use to test code and replicate problems, or have fun!
 
 ---
 
-## 7 - Non-Developer Resources
+## 8 - Non-Developer Resources
 Free stock photos, icons, fonts, etc.
 
 * [**CoDrops Collective**](http://tympanus.net/codrops/collective/) - Every week(ish) this site releases a curated collection of articles, free graphic resources (fonts and icons), links to new and upcoming development tools for and by the designing and development community. It also features (sometimes obscure) open source projects from GitHub that do cool things. Definitely a must follow!
