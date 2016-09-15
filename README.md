@@ -33,6 +33,8 @@ Not sure where to start your search? These tools will help get you started looki
 
 * [**HEAD**](http://gethead.info/) - Everything that could ever possibly go in the `<head>` of your HTML document.
 
+* [**ARIA Roles and Attributes: How to Actually Use Them**](https://thesocietea.org/2016/09/aria-roles-and-attributes-how-to-actually-use-them/) - This is a good primer to give you insight on making accessible HTML.
+
 ---
 
 ## 3 - CSS
