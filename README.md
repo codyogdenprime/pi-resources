@@ -151,3 +151,12 @@ Free stock photos, icons, fonts, etc.
 * [**Product Hunt**](https://www.producthunt.com/) - "Product Hunt surfaces the best new products, every day." I use Product Hunt to learn about new and upcoming (and sometimes old but relevant) developer tools, programs and resources. You can customize the experience to see more of things that might be relevant to you.
 
 * [**Trello**](http://trello.com) - This is an organization tool I use to manage tasks lists.
+
+---
+
+## 9 - Paid Resources
+These are books and other paid resources I've made investments in to learn more about the technologies used at Prime.
+
+* [CSS Secrets - Lea Verou](http://shop.oreilly.com/product/0636920031123.do) - Lea Verou is a CSS specialist. In this book, she covers some fascinating things that will help take your CSS skills to the next level.
+
+* [Eloquent Javascript](http://eloquentjavascript.net) - This book is **free**, but I like to support the author for providing a great resource.
