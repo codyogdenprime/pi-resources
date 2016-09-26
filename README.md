@@ -77,6 +77,8 @@ The future of CSS is coming.
 
 * [**You Might Not Need jQuery**](http://youmightnotneedjquery.com/) - Do you really need to load a JavaScript library to do that?
 
+* [**What is ‘this’ in JavaScript?**](https://develoger.com/what-is-this-in-javascript-a3019629849?gi=81ffcdca7f82#.pvereigp3) - Explained to the 5 year old, literally.
+
 ### Node.js & Express
 
 * [**Node-Express-MongoDB Tutorial**](http://zellwk.com/blog/crud-express-mongodb/) - This is a great tutorial that will walk you through creating a simple [CRUD app](https://en.wikipedia.org/wiki/Create,_read,_update_and_delete). **Be advised:** This tutorial requires some basic knowledge of ES6, mostly to redo the code into ES5.
